@@ -1,0 +1,3 @@
+test cartpole, mountaincar and pendulum with deep Q network, policy gradient, and deep determinstic policy gradient.
+
+first test deep Q network with two structures, my structure and morvan's structure and compare.
